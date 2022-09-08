@@ -11,3 +11,6 @@ sonho =("escreva seu sonho")
 alert ("seu nome é " + nome + "sua idade é " + idade + "seu gosto musical é " + 
 gostomusical +"seu filme favorito é " + " não  " + filho + "seu sonho é " + sonho);
 
+
+
+

@@ -1,0 +1,18 @@
+let nome, altura, peso, ddi, diabete
+//alert (nome)
+//console.log(nome)
+//alert(altura)
+//console.log(altura)
+//alert (peso)
+//cosole.log(peso)
+//alert (data de internacão)
+//console.log(ddi)
+//alert(diabete)
+//console.log(diabete)
+
+nome = prompt("escreva seu nome")
+altura = prompt("escreva sua altura")
+peso = prompt("escreva seu peso")
+ddi = prompt("escreva data de internacão")
+diabete = prompt("você tem diabete")
+alert("\nseu nome é " + nome + "\nsua altura é " + altura + "\nseu peso é " + peso + "\nsua data de internacão é " + ddi + "\né diabetico " + diabete)
